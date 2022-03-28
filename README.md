@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...Projects at Vorane Studios
-- 🌱 I’m currently learning ...Full-Stack Development with React and Django
-- 👯 I’m looking to collaborate on ...Projects relating to python and fintech
-- 📫 How to reach me: ...brian@vorane.com
+- 🔭 I’m currently working on projects at Vorane Studios
+- 🌱 I’m currently learning full-Stack Development with React and Django
+- 👯 I’m looking to collaborate on projects relating to python and fintech
+- 📫 How to reach me: brian@vorane.com
 <!--
 **Brian-Kariu/Brian-Kariu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

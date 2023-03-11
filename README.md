@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on projects at Vorane Studios
+- 🔭 I’m currently working on projects at Savannah Informatics Limited
 - 🌱 I’m currently learning full-Stack Development with React and Django
 - 👯 I’m looking to collaborate on projects relating to python and fintech
-- 📫 How to reach me: brian@vorane.com
+- 📫 How to reach me: waiganjo.brian@gmail.com
 <!--
 **Brian-Kariu/Brian-Kariu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Projects at Vorane Studios
-- 🌱 I’m currently learning ...Full-Stack Development with React and Django
-- 👯 I’m looking to collaborate on ...Projects relating to python and fintech
+- 🔭 I’m currently working on ...Data Engineering projects at Savannah Informatics
+- 🌱 I’m currently learning ...Angular and Node.js
+- 👯 I’m looking to collaborate on ...Projects relating to Data Engineering, Python and Javascript
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...brian@vorane.com
+- 📫 How to reach me: ...waiganjo.brian@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

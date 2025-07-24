@@ -29,10 +29,10 @@
 ### 📊 Stats and Activity
 <div align="center" width=100%>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" padding=100px src="https://github-readme-stats.vercel.app/api?username=Brian-Kariu&count_private=true&show_icons=true&theme=tokyonight" />
+    <img height=200 align="center" padding=100px src="https://github-readme-stats-ivory-six-59.vercel.app/api?username=Brian-Kariu&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" padding=100px src="https://github-readme-stats.vercel.app/api/top-langs?username=Brian-Kariu&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
+    <img height=200 align="center" padding=100px src="https://github-readme-stats-ivory-six-59.vercel.app/api/top-langs?username=Brian-Kariu&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
   </a>
 </div>
 

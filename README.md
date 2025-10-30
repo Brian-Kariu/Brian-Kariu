@@ -5,6 +5,8 @@
 - Tons of experience in data engineering
 - Worked on creating and deploying AI models
 - Solid fundamental knowledge on devops skills
+
+
 To learn more you can go to my [website](https://www.brian-kariu.me/portfolio).
 
 ---
